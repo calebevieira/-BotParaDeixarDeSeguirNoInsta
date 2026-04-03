@@ -1,0 +1,12 @@
+{
+  "name": "insta-unfollow",
+  "version": "1.0.0",
+  "description": "Instagram unfollow bot with Playwright",
+  "main": "unfollow.js",
+  "scripts": {
+    "start": "node unfollow.js"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}

@@ -32,7 +32,7 @@ A ideia foi aplicar automação na prática e demonstrar como é possível resol
 
 ---
 
-## 📦 Instalação
+##  Instalação
 
 Clone o repositório:
 
@@ -55,7 +55,7 @@ npx playwright install chromium
 
 ---
 
-## ▶️ Como usar
+##  Como usar
 
 Execute o script:
 
@@ -72,7 +72,7 @@ npm start
 
 ---
 
-## ⚙️ Configuração
+##  Configuração
 
 No arquivo `unfollow.js`, você pode ajustar:
 
@@ -98,7 +98,7 @@ Recomendado:
 
 ---
 
-## 🧠 Aprendizados
+##  Aprendizados
 
 Esse projeto mostra como:
 

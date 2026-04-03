@@ -25,7 +25,7 @@ A ideia foi aplicar automação na prática e demonstrar como é possível resol
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - Node.js
 - Playwright
